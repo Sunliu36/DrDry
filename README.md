@@ -22,10 +22,11 @@ Dr.Dry is an innovative intelligent system designed to predict clothes drying ti
 | Database | PostgreSQL (Prisma ORM) | Data storage and management |
 | ML Model | Keras, TensorFlow, scikit-learn | Neural network for prediction |
 
-![System Architecture](src\專題架構圖.png)
+![System Architecture](./src/SystemArchitecture.png)
 
 ## User Flow
-![UserFlow](src\userFlow.png)
+
+![UserFlow](./src/UserFlow.png)
 
 ## Prediction Model Details
 
